@@ -24,3 +24,5 @@ String priceDisplayYn =  commonDataService.getcommonB2BData(siteCode, "isPricedi
 			metaModel.setCalculateFinancingYn(calculateFinancingYn);
 			metaModel.setCartUrl(cartUrl);
 			metaModel.setEmiUrl(emiUrl);
+
+    3 matser off line
